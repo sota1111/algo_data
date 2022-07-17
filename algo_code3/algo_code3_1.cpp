@@ -5,7 +5,7 @@ using namespace std;
 int main(){
     // 入力を受け取る
     int N, v;
-    cout << "整数の数は？" << endl;
+    cout << "配列数は？" << endl;
     cin >> N;
     cout << "探索する整数は？" << endl;
     cin >> v;
