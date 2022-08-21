@@ -25,7 +25,7 @@ int main(){
         // sumがWに一致するかどうか
         if (sum==W) exist = true;
     }
-    cout << bit << endl;
+    //cout << bit << endl;
     if(exist) cout << "Yes" << endl;
     else cout << "No" << endl;
 }
