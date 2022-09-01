@@ -19,11 +19,11 @@ int binary_search(int key){
 }
 
 int main(){
-    cout << binary_search(10) << endl;
-    cout << binary_search(3) << endl;
-    cout << binary_search(39) << endl;
+    //cout << binary_search(10) << endl;
+    //cout << binary_search(3) << endl;
+    //cout << binary_search(39) << endl;
 
-    cout << binary_search(-100) << endl;
+    //cout << binary_search(-100) << endl;
     cout << binary_search(9) << endl;
-    cout << binary_search(100) << endl;
+    //cout << binary_search(100) << endl;
 }

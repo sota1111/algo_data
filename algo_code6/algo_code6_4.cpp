@@ -17,7 +17,7 @@ int main(){
     cout << N << "個の整数を入力ください。" << endl;
     for(int i=0;i<N;++i) cin >> b[i];
 
-    // 線形探索
+    // 暫定最小値を格納する変数
     int min_value=INF;
 
     //bをソート
