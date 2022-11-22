@@ -1,7 +1,0 @@
-[
-{
-  "directory": "/home/sota/cpp_make/build",
-  "command": "/usr/bin/g++   -g -o CMakeFiles/cpp_cmake.dir/main.cpp.o -c /home/sota/cpp_make/main.cpp",
-  "file": "/home/sota/cpp_make/main.cpp"
-}
-]
