@@ -1,5 +1,6 @@
 /* 非負整数 A,B,C,D,E,F があり、A×B×C≥D×E×F をみたしています。
 (A×B×C)−(D×E×F) の値を 998244353 で割った余りを求めてください。*/
+// 一般に非負整数 A,B および正整数 M について、 (A∗B)%M=((A%M)∗(B%M))%Mが成り立つ
 
 #include <bits/stdc++.h>
 using namespace std;
